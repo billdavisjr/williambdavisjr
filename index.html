@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>William B. Davis Jr. - williambdavisjr.com</title>
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+			.header, .footer {
+				background-color: darkgreen;
+				color: white;
+				padding: 15px;
+				text-align: center;
+				font-family: sans-serif;
+			}
+			.column {
+				float: left;
+			}
+			.clearfix::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+			.menu {
+				width: 20%;
+				padding: 15px;
+				border: 0px solid darkgreen;
+			}
+			.content {
+				width: 75%; 
+				color: white;
+				padding: 15px;
+				font-size: 1.5em;
+			}
+			.menu ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			.menu li {
+				font-weight: bold;
+				font-family: sans-serif;
+				padding: 8px;
+				margin-bottom: 8px;
+				background-color: darkgreen;
+				color: white;
+				opacity: 0.70;
+		    	filter: alpha(opacity=70); /* For IE8 and earlier */
+			}
+			.menu li:hover {
+				background-color: none; 
+				color: black;
+				opacity: 1.0;
+		    	filter: alpha(opacity=100); /* For IE8 and earlier */
+			}	
+			.menu p {
+				color: white;
+				font-family: sans-serif;
+			}
+			.menu img {
+				border: 2px solid black;
+    			margin: 0px 0px 15px 20px			
+    		}	
+
+			a:link {
+			    color: white;
+			    text-decoration: none;
+			}
+
+			/* visited link */
+			a:visited {
+				color: yellow;
+				text-decoration: none;
+			}
+
+			/* mouse over link */
+			a:hover {
+				color: orange;
+			}
+			
+			/* @font-face{ 
+			font-family: 'MyWebFont';
+			src: url('WebFont.eot');
+			src: url('WebFont.eot?#iefix') format('embedded-opentype'),
+				 url('WebFont.woff') format('woff'),
+				 url('WebFont.ttf') format('truetype'),
+				 url('WebFont.svg#webfont') format('svg');
+			} */
+
+			@font-face {
+				font-family: 'luxury_royale_jfregular';
+				src: url('./fonts/luxury_royale_jf_regular-webfont.woff2') format('woff2'),
+					 url('./fonts/luxury_royale_jf_regular-webfont.woff') format('woff');
+				font-weight: normal;
+				font-style: normal;
+			}
+
+			h1  { 
+				font-family: 'luxury_royale_jfregular', cursive; 
+				font-size: 4em;
+			}
+
+		</style>
+	</head>
+	<body background="background.png">
+
+		<div class="header">
+		  <h1>William B. Davis, Jr.</h1>
+		  <h3>Software Developer & Consultant</h3>
+		</div>
+
+		<div class="clearfix">
+
+		  <div class="column menu">
+		  
+			<img style="margin: 10px 10px 10px 10px;" src="Bill_headshot.jpg;"  >
+
+			<p id="resumes"><b>RESUMES</b></p>
+				<ul>
+					<li><a href="Resume2pg2017-10-11.pdf">My 2 page summary resume</a>
+					<li><a href="ResumeDetailed2017-10-11.pdf">My 4 page detailed master resume</a>
+				</ul>
+
+			<p id="links"><b>MY LINKS</b></p>
+				<ul>
+					<li><a href="http://billandjoliedavis.com">Bill and Jolie Davis</a>
+					<li><a href="./wedding/index.html">Bill and Jolie Davis Wedding web site</a>
+					<li><a href="http://makeonechange.today">Make One Change Health Coaching</a>
+					<li><a href="http://iowapen.club">IowaPen Pen Club</a>
+					<li>Blog - Blogger
+					<li>Blog - WordPress
+					<li>Tumblr
+				</ul>
+			<p id="links"><b>LINKS OF INTEREST</b></p>
+				<ul>
+					<li>Quill & Nib
+					<li>Pen Collectors of America
+					<li><a href="https://artsandcraftshomes.com">Arts & Crafts Homes</a>
+					<li><a href="http://www.dmsfs.org/">Des Moines Science Fiction Society</a>
+					<li><a href="http://www.demicon.org/">DemiCon (DMSFS annual convention)</a>
+					<li><a href="https://trility.io">Trility</a>
+					<li><a href="https://ironbench.io">IronBench</a>
+					<li><a href="https://godynamo.co">Dynamo LLC</a>
+					<li><a href="https://teachpeople.org">TeachPeople</a>
+					
+				</ul>
+			<p id="contact"><b>CONTACT INFORMATION</b></p>
+				<ul>
+					<li>Email: <a href="mailto:bill.davis@gmail.com">bill.davis@gmail.com</a>
+					<li>Phone: +1 (515) 999-0622
+					<li>Twitter: @BillD
+					<li>LinkedIn: ---coming soon---
+					<li>Facebook: ---coming soon---
+					<li>Instagram: ----coming soon---
+					<li>GitHub: ---coming soon---
+				</ul>	
+			<p id="downloads"><b>DOWNLOADS</b></p>
+				<ul>
+					<li>Quotes.exe (Windows)
+					<li>Quotes.exe (Windows.Net)
+					<li>Quotes.jar (Java JAR)
+					<li>Quotes.app (Java Mac app)
+				</ul>	
+
+		  </div>
+
+		  <div class="column content">
+			<p>Welcome to my Web Site</p>
+			<p>Use the links in the navigation bar at the left to view my resume, see my other related sites and that of my family and interests, get in touch with me, etc.</p>
+			<p> I am a software and web-site developer and consultant with extensive experience in all facets of software development lifecycle, user training, and support. 
+			Skilled at documentation and user interface design.  Always interested in examining new technologies while keeping focus on long-term system planning and 
+			maintainability.
+
+		  </div>
+		</div>
+
+		<div class="footer">
+		  <p>Copyright &copy 1995-2018 by William B. Davis, Jr. All Rights Reserved.</p>
+		</div>
+		
+	</body>
+	
+</html>
