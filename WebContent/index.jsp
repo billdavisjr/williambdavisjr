@@ -12,7 +12,7 @@
 	<body>
 		<div class="header">
 		  <h1>William B. Davis, Jr.</h1>
-		  <h2>Software and Web Developer & Consultant</h2>
+		  <h2>Software and Web Developer &amp; Consultant</h2>
 		</div>
 		<div class="clearfix">
 		  <div class="column menu">
@@ -32,36 +32,36 @@
 			<p id="familylinks"><b>FAMILY LINKS</b></p>
 				<ul>
 					<li><a href="http://makeonechange.today">Make One Change Health Coaching</a></li>
-					<li><a href="./wedding/index.html">Bill & Jolie Davis Wedding site</a></li>
+					<li><a href="./wedding/index.html">Bill &amp; Jolie Davis Wedding site</a></li>
 					<li>Bill and Jolie Davis (coming soon)</li> 
 				</ul>
 			<p id="blogs"><b>BLOGS</b></p>
 				<ul>
 					<li><a href="https://billdavis.blogspot.com/">Blogger (William's Tell)</a></li>
 					<li><a href="https://www.tumblr.com/blog/billdavis">Tumblr (TumBillr)</a></li>
-					<li><a href=https://williambdavisjr.wordpress.com/">WordPress (William's Tell)</a></li>
+					<li><a href="https://williambdavisjr.wordpress.com/">WordPress (William's Tell)</a></li>
  				</ul>
 			<p id="interestinglinks"><b>LINKS OF INTEREST</b></p>
 				<ul>
-					<li><a href="http://www.dmsfs.org/">Des Moines Science Fiction Society (DMSFS)</a>
-					<li><a href="http://www.demicon.org/">DemiCon (DMSFS annual convention)</a>
-					<li><a href="https://www.heinleinsociety.org/">Heinlein Society</a>
-					<li><a href="https://franklloydwright.org/">Frank Lloyd Wright Foundation</a>
-					<li><a href="https://artsandcraftshomes.com/">Arts & Crafts Homes</a>
-					<li>Pen Collectors of America (coming soon)
+					<li><a href="http://www.dmsfs.org/">Des Moines Science Fiction Society (DMSFS)</a></li>
+					<li><a href="http://www.demicon.org/">DemiCon (DMSFS annual convention)</a></li>
+					<li><a href="https://www.heinleinsociety.org/">Heinlein Society</a></li>
+					<li><a href="https://franklloydwright.org/">Frank Lloyd Wright Foundation</a></li>
+					<li><a href="https://artsandcraftshomes.com/">Arts &amp; Crafts Homes</a></li>
+					<li>Pen Collectors of America (coming soon)</li>
 				</ul>
 			<p id="workrellinks"><b>WORK-RELATED LINKS</b></p>
 				<ul>
-					<li><a href="https://godynamo.co">Dynamo LLC</a>
-					<li><a href="https://trility.io">Trility Consulting</a>
-					<li><a href="https://ironbench.io">IronBench</a>
-					<li><a href="https://teachpeople.org">TeachPeople</a>		
+					<li><a href="https://godynamo.co">Dynamo LLC</a></li>
+					<li><a href="https://trility.io">Trility Consulting</a></li>
+					<li><a href="https://ironbench.io">IronBench</a></li>
+					<li><a href="https://teachpeople.org">TeachPeople</a></li>
 				</ul>
  			<p id="repos"><b>SOURCE CODE REPOS</b></p>		
  				<ul>		
-					<li>GitHub (coming soon)
-					<li>GitLab (coming soon)
-					<li>BitBucket (coming soon)
+					<li><a href="https://gitlab.com/teslaranger/">GitLab</a></li>
+					<li><a href="https://github.com/billdavisjr">GitHub</a></li>
+					<li><a href="https://bitbucket.org/teslaranger/">BitBucket</a></li>
 				</ul>	
  			<p id="downloads"><b>SOFTWARE DOWNLOADS</b></p>
 				<ul>
@@ -78,9 +78,12 @@
 			<p id="mysites"><b>MY WEB APPS</b></p>
 				<ul>
 					<li>Quooqle quote search (coming soon)</li>
+<%--
 	 				<li>IWIDB - Internet Writing Instrument Database (coming soon)</li>
-					
+ --%>
+ 				</ul>					
 			<p id="pens"><b>PEN CLUB LINKS</b></p>
+				<ul>
 					<li><a href="http://www.iowapen.club">IowaPen Club (temporarily offline)</a></li>
 					<li><a href="https://www.facebook.com/groups/IowaPen/">IowaPen Facebook Group</a></li>
 					<li>IowaPen Yahoo Group (coming soon)</li>
@@ -90,7 +93,7 @@
 				</ul>
 		  </div>
 		  <div class="column content">
-			<p style="font-weight: bold; "> I am a software & web site developer and computer consultant, with extensive experience in all facets of software development life-cycle, 
+			<p style="font-weight: bold; "> I am a software &amp; web site developer and computer consultant, with extensive experience in all facets of software development life-cycle, 
 			user training, and support. I am skilled at documentation and user interface design.  I'm interested in examining new technologies while keeping focus on long-term 
 			system planning and maintainability.</p>
 			<p style=" ">If you're looking for the site of the actor named William B. Davis that plays the Cigarette-Smoking Man on the TV Series &ldquo;The X-Files&rdquo;, that's NOT me.  
@@ -99,7 +102,7 @@
 		  </div>
 		</div>
 		<div class="footer">
-		  <p>Copyright &copy 1995-2018 by William B. Davis, Jr. All Rights Reserved. Running on 
+		  <p>Copyright &copy; 1995-2018 by William B. Davis, Jr. All Rights Reserved. Running on 
 		  <%=request.getServletContext().getServerInfo() %> 
 		  </p>
 		</div>
