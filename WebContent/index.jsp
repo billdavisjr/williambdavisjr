@@ -70,8 +70,10 @@
 					<li>Quooqle for Mac (Java)</li>
 					<li>Quooqle for Java (JAR)</li>
 					<li>Quooqle for Web (JSP)</li>
-					<li>Quooqle for iPhone (Swift)</li>
+
+<%--				<li>Quooqle for iPhone (Swift)</li>
 					<li>Quooqle for OpenVMS DCL</li>
+ --%>
 				</ul>	
 			<p id="mysites"><b>MY WEB APPS</b></p>
 				<ul>
