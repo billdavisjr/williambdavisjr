@@ -50,6 +50,7 @@
 					<li><a href="https://artsandcraftshomes.com/">Arts &amp; Crafts Homes</a></li>
 					<li>Pen Collectors of America (coming soon)</li>
 				</ul>
+<%--  
 			<p id="workrellinks"><b>WORK-RELATED LINKS</b></p>
 				<ul>
 					<li><a href="https://godynamo.co">Dynamo LLC</a></li>
@@ -57,6 +58,7 @@
 					<li><a href="https://ironbench.io">IronBench</a></li>
 					<li><a href="https://teachpeople.org">TeachPeople</a></li>
 				</ul>
+--%>
  			<p id="repos"><b>SOURCE CODE REPOS</b></p>		
  				<ul>		
 					<li><a href="https://gitlab.com/teslaranger/">GitLab</a></li>
@@ -102,7 +104,7 @@
 		  </div>
 		</div>
 		<div class="footer">
-		  <p>Copyright &copy; 1995-2018 by William B. Davis, Jr. All Rights Reserved. Running on 
+		  <p>This site and all content thereon is Copyright &copy; 1995-<script>document.write(new Date().getFullYear())</script> by William B. Davis, Jr. All Rights Reserved. Running on 
 		  <%=request.getServletContext().getServerInfo() %> 
 		  </p>
 		</div>
