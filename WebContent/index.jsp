@@ -97,7 +97,7 @@
 			user training, and support. I am skilled at documentation and user interface design.  I'm interested in examining new technologies while keeping focus on long-term 
 			system planning and maintainability.</p>
 			<p style=" ">If you're looking for the site of the actor named William B. Davis that plays the Cigarette-Smoking Man on the TV Series &ldquo;The X-Files&rdquo;, that's NOT me.  
-				You can find his site at <a href="http://www.williambdavis.com">www.williambdavis.com</a> (no 'jr').  We are <u>not</u> related.</p>
+				You can find his site at <a href="http://www.williambdavis.com">www.williambdavis.com</a> (no 'jr').  We are <em>NOT</em> related.</p>
 			<p style="font-weight: bold;  ">Use the links in the navigation bar at the left to view my resume, get in touch with me, see related sites of my family and interests, etc.</p>							
 		  </div>
 		</div>

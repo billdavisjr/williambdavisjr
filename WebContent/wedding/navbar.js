@@ -1,4 +1,3 @@
-<!-- hide script from old browsers
 	document.write("<span class=\"navbar\">");
 	document.write("	<div style=\"float:left\">");
 	document.write("		<table border=\"0\" cellpadding=\"0\" width=\"146\">");
@@ -54,4 +53,3 @@ function menuRow(thePage,theTitle) {
 		document.write("			<tr><td valign=\"center\" align=\"center\" height=\"28\"><a href=\""+thePage+"\">"+theTitle+"</a></td></tr>");
 	}
 }	
-// end hiding script from old browsers -->
