@@ -93,8 +93,29 @@
 					<li><a href="https://iowapen.slack.com">IowaPen Slack Channel</a></li>
 					<li>IowaPen Show (coming one of these days)</li>
 				</ul>
-		  </div>
-		  <div class="column content">
+			<div id="center_ad" style="text-align: center; ">
+				<p>Please help support IowaPen by clicking the following Amazon ad before you purchase from Amazon; thank you!</p>
+				<div id="amazon_ad" style="display: inline-block; ">
+				     <script type="text/javascript">
+						amzn_assoc_ad_type = "banner";
+						amzn_assoc_marketplace = "amazon";
+						amzn_assoc_region = "US";
+						amzn_assoc_placement = "assoc_banner_placement_default";
+						amzn_assoc_campaigns = "officeschoolsupplies";
+						amzn_assoc_banner_type = "category";
+						amzn_assoc_p = "12";
+						amzn_assoc_isresponsive = "false";
+						amzn_assoc_banner_id = "118T0Y7A66XWR2080AG2";
+						amzn_assoc_width = "300";
+						amzn_assoc_height = "250";
+						amzn_assoc_tracking_id = "iowapen-20";
+						amzn_assoc_linkid = "00f611ffdf9b0fdc7a66007357d531bf";
+				    </script>
+					<script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+				</div>	
+    		</div>
+    	</div>
+		<div class="column content">
 			<p style="font-weight: bold; "> I am a software &amp; web site developer and computer consultant, with extensive experience in all facets of software development life-cycle, 
 			user training, and support. I am skilled at documentation and user interface design.  I'm interested in examining new technologies while keeping focus on long-term 
 			system planning and maintainability.</p>
