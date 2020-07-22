@@ -1,6 +1,3 @@
-<%-- index.jsp --%>
-<%-- WilliamBDavisJr.com Copyright (C) 2018 William B. Davis Jr.  --%>
-<%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -51,19 +48,19 @@
 					<li><a href="https://artsandcraftshomes.com/">Arts &amp; Crafts Homes</a></li>
 					<li>Pen Collectors of America (coming soon)</li>
 				</ul>
-<%--  
-			<p id="workrellinks"><b>WORK-RELATED LINKS</b></p>
+<!--
+			  <p id="workrellinks"><b>WORK-RELATED LINKS</b></p>
 				<ul>
 					<li><a href="https://godynamo.co">Dynamo LLC</a></li>
 					<li><a href="https://trility.io">Trility Consulting</a></li>
 					<li><a href="https://ironbench.io">IronBench</a></li>
 					<li><a href="https://teachpeople.org">TeachPeople</a></li>
 				</ul>
---%>
+-->
  			<p id="repos"><b>SOURCE CODE REPOS</b></p>		
  				<ul>		
-					<li><a href="https://gitlab.com/teslaranger/">GitLab</a></li>
 					<li><a href="https://github.com/billdavisjr">GitHub</a></li>
+					<li><a href="https://gitlab.com/teslaranger/">GitLab</a></li>
 					<li><a href="https://bitbucket.org/teslaranger/">BitBucket</a></li>
 				</ul>	
  			<p id="downloads"><b>SOFTWARE DOWNLOADS</b></p>
@@ -74,16 +71,16 @@
 					<li>Quooqle for Java (JAR)</li>
 					<li>Quooqle for Web (JSP)</li>
 
-<%--				<li>Quooqle for iPhone (Swift)</li>
+<!--				<li>Quooqle for iPhone (Swift)</li>
 					<li>Quooqle for OpenVMS DCL</li>
- --%>
+ -->
 				</ul>	
 			<p id="mysites"><b>MY WEB APPS</b></p>
 				<ul>
 					<li>Quooqle quote search (coming soon)</li>
-<%--
+<!--
 	 				<li>IWIDB - Internet Writing Instrument Database (coming soon)</li>
- --%>
+-->
  				</ul>					
 			<p id="pens"><b>PEN CLUB LINKS</b></p>
 				<ul>
